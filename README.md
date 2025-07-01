@@ -1,4 +1,3 @@
-Write a script to- (Extract a complete JSON representation of a word doc file that includes all elements such as alignment, font style, theme, images, content, text, and positioning. The JSON should be structured in a way that allows for the direct recreation of the original file without any need for further manipulation. The script should be able to handle errors.)
 import json
 import base64
 from docx import Document
